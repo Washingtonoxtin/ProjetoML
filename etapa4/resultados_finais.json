@@ -1,6 +1,6 @@
 {
   "Baseline_R2": 0.3635,
-  "RandomForest_R2": 0.879832794577549,
+  "RandomForest_R2": 0.8798327945775489,
   "XGBoost_Validacao_R2": 0.9102439494319309,
   "XGBoost_Teste_R2": 0.8124720523089916,
   "Melhor_Modelo": "XGBoost"
